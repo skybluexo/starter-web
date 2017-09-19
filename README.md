@@ -9,7 +9,9 @@ This is example is to show different parts fo the git repository and various com
 
 ## Purpose
 
-as stated above, the main purpose is to provide simple examples for Git training demos.
+as stated above, the main purpose is to provide simple examples for Git training demos.  
+
+## Updates from Dev 1
 
 ## Deoployment
 
